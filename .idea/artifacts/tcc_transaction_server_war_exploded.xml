@@ -1,0 +1,57 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="tcc-transaction-server:war exploded">
+    <output-path>$PROJECT_DIR$/tcc-transaction-server/target/tcc-transaction-server</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="tcc-transaction-server" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="tcc-transaction-core-1.1.5.jar">
+            <element id="module-output" name="tcc-transaction-core" />
+          </element>
+          <element id="archive" name="tcc-transaction-api-1.1.5.jar">
+            <element id="module-output" name="tcc-transaction-api" />
+          </element>
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:19.0" />
+          <element id="library" level="project" name="Maven: com.esotericsoftware:kryo:4.0.0" />
+          <element id="library" level="project" name="Maven: com.esotericsoftware:reflectasm:1.11.3" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm:5.0.4" />
+          <element id="library" level="project" name="Maven: com.esotericsoftware:minlog:1.3.0" />
+          <element id="library" level="project" name="Maven: org.objenesis:objenesis:2.2" />
+          <element id="library" level="project" name="Maven: org.apache.zookeeper:zookeeper:3.4.6" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.1" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.6.1" />
+          <element id="library" level="project" name="Maven: jline:jline:0.9.94" />
+          <element id="library" level="project" name="Maven: io.netty:netty:3.7.0.Final" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.6.8" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.3" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-test:3.2.12.RELEASE" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.5.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.5.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.5.0" />
+          <element id="library" level="project" name="Maven: org.freemarker:freemarker:2.3.21" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.33" />
+          <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.4" />
+          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.5.4" />
+          <element id="library" level="project" name="Maven: redis.clients:jedis:2.8.0" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.3" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/tcc-transaction-server/target/tcc-transaction-server/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="tcc-transaction-server/web/Web" />
+    </root>
+  </artifact>
+</component>

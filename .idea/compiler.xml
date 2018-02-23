@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tcc-transaction-api" />
+        <module name="tcc-transaction-core" />
+        <module name="tcc-transaction-dubbo-capital" />
+        <module name="tcc-transaction-dubbo-capital-api" />
+        <module name="tcc-transaction-dubbo-order" />
+        <module name="tcc-transaction-dubbo-order-api" />
+        <module name="tcc-transaction-dubbo-redpacket" />
+        <module name="tcc-transaction-dubbo-redpacket-api" />
+        <module name="tcc-transaction-dubbo-web-trade" />
+        <module name="tcc-transaction-server" />
+        <module name="tcc-transaction-spring" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tcc-transaction" target="1.8" />
+      <module name="tcc-transaction-api" target="1.7" />
+      <module name="tcc-transaction-core" target="1.7" />
+      <module name="tcc-transaction-dubbo-capital" target="1.7" />
+      <module name="tcc-transaction-dubbo-capital-api" target="1.7" />
+      <module name="tcc-transaction-dubbo-order" target="1.7" />
+      <module name="tcc-transaction-dubbo-order-api" target="1.7" />
+      <module name="tcc-transaction-dubbo-redpacket" target="1.7" />
+      <module name="tcc-transaction-dubbo-redpacket-api" target="1.7" />
+      <module name="tcc-transaction-dubbo-web-trade" target="1.7" />
+      <module name="tcc-transaction-parent" target="1.7" />
+      <module name="tcc-transaction-server" target="1.7" />
+      <module name="tcc-transaction-spring" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

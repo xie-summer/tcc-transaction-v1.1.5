@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tcc-transaction.iml" filepath="$PROJECT_DIR$/tcc-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcc-transaction-api/tcc-transaction-api.iml" filepath="$PROJECT_DIR$/tcc-transaction-api/tcc-transaction-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcc-transaction-core/tcc-transaction-core.iml" filepath="$PROJECT_DIR$/tcc-transaction-core/tcc-transaction-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcc-transaction-dubbo-capital/tcc-transaction-dubbo-capital.iml" filepath="$PROJECT_DIR$/tcc-transaction-dubbo-capital/tcc-transaction-dubbo-capital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcc-transaction-dubbo-capital-api/tcc-transaction-dubbo-capital-api.iml" filepath="$PROJECT_DIR$/tcc-transaction-dubbo-capital-api/tcc-transaction-dubbo-capital-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcc-transaction-dubbo-order/tcc-transaction-dubbo-order.iml" filepath="$PROJECT_DIR$/tcc-transaction-dubbo-order/tcc-transaction-dubbo-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcc-transaction-dubbo-order-api/tcc-transaction-dubbo-order-api.iml" filepath="$PROJECT_DIR$/tcc-transaction-dubbo-order-api/tcc-transaction-dubbo-order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcc-transaction-dubbo-redpacket/tcc-transaction-dubbo-redpacket.iml" filepath="$PROJECT_DIR$/tcc-transaction-dubbo-redpacket/tcc-transaction-dubbo-redpacket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcc-transaction-dubbo-redpacket-api/tcc-transaction-dubbo-redpacket-api.iml" filepath="$PROJECT_DIR$/tcc-transaction-dubbo-redpacket-api/tcc-transaction-dubbo-redpacket-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcc-transaction-dubbo-web-trade/tcc-transaction-dubbo-web-trade.iml" filepath="$PROJECT_DIR$/tcc-transaction-dubbo-web-trade/tcc-transaction-dubbo-web-trade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcc-transaction-parent/tcc-transaction-parent.iml" filepath="$PROJECT_DIR$/tcc-transaction-parent/tcc-transaction-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcc-transaction-server/tcc-transaction-server.iml" filepath="$PROJECT_DIR$/tcc-transaction-server/tcc-transaction-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcc-transaction-spring/tcc-transaction-spring.iml" filepath="$PROJECT_DIR$/tcc-transaction-spring/tcc-transaction-spring.iml" />
+    </modules>
+  </component>
+</project>
